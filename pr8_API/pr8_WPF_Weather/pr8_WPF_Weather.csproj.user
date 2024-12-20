@@ -7,6 +7,9 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Element\itm_HourlyWeather.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Element\itm_Weather.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -15,6 +18,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Element\itm_HourlyWeather.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Element\itm_Weather.xaml">
       <SubType>Designer</SubType>
     </Page>

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_WPF_Weather\App.xaml
-31050411833
+41585900499
 
-7-1926372800
+9-1337605061
 211-1443755099
-Element\itm_Weather.xaml;MainWindow.xaml;Pages\Main.xaml;
+Element\itm_HourlyWeather.xaml;Element\itm_Weather.xaml;MainWindow.xaml;Pages\Main.xaml;
 
-True
+False
 

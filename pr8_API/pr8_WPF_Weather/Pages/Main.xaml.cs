@@ -10,6 +10,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using pr8_API;
 
 namespace pr8_WPF_Weather.Pages
 {
@@ -18,6 +19,7 @@ namespace pr8_WPF_Weather.Pages
     /// </summary>
     public partial class Main : Page
     {
+        private readonly WeatherService _weatherService;
         public Main()
         {
             InitializeComponent();
