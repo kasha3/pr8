@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -33,7 +34,7 @@ namespace pr8_WPF_Weather.Pages
         {
             try
             {
-                var searchResult = await _weatherService.SearchLocationsAsync(sity);
+                var searchResult = await _weatherService.SearchLocationAsync(sity);
 
                 var location = searchResult.First();
 
@@ -44,7 +45,7 @@ namespace pr8_WPF_Weather.Pages
                 lb_temp_now.Content = $"{currentWeather.Temperature.Value.ToString()}°";
                 img_now.Source = WeatherImageProvider.GetImage(currentWeather.WeatherIcon);
                 lb_condition_now.Content = currentWeather.IconPhrase;
-                lb_temp_feel_now.Content = $"{currentWeather.RealFeelTemperature.Value.ToString()}°";
+                lb_temp_feel_now.Content = $"{currentWeather.RealFeelTemp.Value.ToString()}°";
                 lb_wind.Content = $"{currentWeather.Wind.Speed.Value.ToString()}м/с";
                 lb_humidity.Content = $"{currentWeather.RelativeHumidity.ToString()}%";
                 lb_uv.Content = $"{currentWeather.UVIndex}, {currentWeather.UVIndexText}";

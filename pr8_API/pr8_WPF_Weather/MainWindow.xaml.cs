@@ -24,7 +24,7 @@ namespace pr8_WPF_Weather
         public MainWindow()
         {
             InitializeComponent();
-
+            frame.Navigate(new Pages.Main());
         }
     }
 }

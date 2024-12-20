@@ -3,28 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\element\\itm_hourlyweather.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\element\\itm_hourlyweather.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\pages\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\pages\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\weatherimageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\weatherimageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\pr8_wpf_weather.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\pr8_wpf_weather.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\element\\itm_weather.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\element\\itm_weather.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\pages\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\pages\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_api\\models\\inhoursforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|solutionrelative:pr8_api\\models\\inhoursforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\element\\itm_hourlyweather.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\element\\itm_hourlyweather.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\element\\itm_hourlyweather.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\element\\itm_hourlyweather.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\weatherimageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\weatherimageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_wpf_weather\\element\\itm_weather.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\element\\itm_weather.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|c:\\users\\hat\\desktop\\pr8_0202\\pr8\\pr8_api\\pr8_api\\models\\dailyforecastresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,97 +65,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "itm_HourlyWeather.xaml",
-              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml",
-              "RelativeDocumentMoniker": "pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml",
-              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml",
-              "RelativeToolTip": "pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T17:40:03.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherImageProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\WeatherImageProvider.cs",
-              "RelativeDocumentMoniker": "pr8_WPF_Weather\\WeatherImageProvider.cs",
-              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\WeatherImageProvider.cs",
-              "RelativeToolTip": "pr8_WPF_Weather\\WeatherImageProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "itm_HourlyWeather.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml.cs",
+              "RelativeDocumentMoniker": "pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml.cs",
+              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml.cs",
+              "RelativeToolTip": "pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:37:41.94Z",
+              "WhenOpened": "2024-12-20T17:42:49.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "pr8_WPF_Weather\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\MainWindow.xaml.cs",
-              "RelativeToolTip": "pr8_WPF_Weather\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:32:23.658Z",
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-20T17:42:21.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "itm_Weather.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_Weather.xaml.cs",
-              "RelativeDocumentMoniker": "pr8_WPF_Weather\\Element\\itm_Weather.xaml.cs",
-              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_Weather.xaml.cs",
-              "RelativeToolTip": "pr8_WPF_Weather\\Element\\itm_Weather.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:16:21.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "itm_Weather.xaml",
-              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_Weather.xaml",
-              "RelativeDocumentMoniker": "pr8_WPF_Weather\\Element\\itm_Weather.xaml",
-              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_Weather.xaml",
-              "RelativeToolTip": "pr8_WPF_Weather\\Element\\itm_Weather.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T16:31:19.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Main.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Pages\\Main.xaml.cs",
               "RelativeDocumentMoniker": "pr8_WPF_Weather\\Pages\\Main.xaml.cs",
               "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Pages\\Main.xaml.cs",
               "RelativeToolTip": "pr8_WPF_Weather\\Pages\\Main.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDcAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAArwFMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T14:54:14.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Main.xaml",
-              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Pages\\Main.xaml",
-              "RelativeDocumentMoniker": "pr8_WPF_Weather\\Pages\\Main.xaml",
-              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Pages\\Main.xaml",
-              "RelativeToolTip": "pr8_WPF_Weather\\Pages\\Main.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T14:38:22.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "pr8_WPF_Weather.csproj",
               "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\pr8_WPF_Weather.csproj",
               "RelativeDocumentMoniker": "pr8_WPF_Weather\\pr8_WPF_Weather.csproj",
@@ -157,7 +121,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pr8_WPF_Weather\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\MainWindow.xaml.cs",
+              "RelativeToolTip": "pr8_WPF_Weather\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:32:23.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InHoursForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_API\\Models\\InHoursForecast.cs",
+              "RelativeDocumentMoniker": "pr8_API\\Models\\InHoursForecast.cs",
+              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_API\\Models\\InHoursForecast.cs",
+              "RelativeToolTip": "pr8_API\\Models\\InHoursForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:43:17.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "itm_HourlyWeather.xaml",
+              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml",
+              "RelativeDocumentMoniker": "pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml",
+              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml",
+              "RelativeToolTip": "pr8_WPF_Weather\\Element\\itm_HourlyWeather.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T17:40:03.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherImageProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\WeatherImageProvider.cs",
+              "RelativeDocumentMoniker": "pr8_WPF_Weather\\WeatherImageProvider.cs",
+              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\WeatherImageProvider.cs",
+              "RelativeToolTip": "pr8_WPF_Weather\\WeatherImageProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:37:41.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "itm_Weather.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_Weather.xaml.cs",
+              "RelativeDocumentMoniker": "pr8_WPF_Weather\\Element\\itm_Weather.xaml.cs",
+              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_Weather.xaml.cs",
+              "RelativeToolTip": "pr8_WPF_Weather\\Element\\itm_Weather.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:16:21.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "itm_Weather.xaml",
+              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_Weather.xaml",
+              "RelativeDocumentMoniker": "pr8_WPF_Weather\\Element\\itm_Weather.xaml",
+              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Element\\itm_Weather.xaml",
+              "RelativeToolTip": "pr8_WPF_Weather\\Element\\itm_Weather.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T16:31:19.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Pages\\Main.xaml",
+              "RelativeDocumentMoniker": "pr8_WPF_Weather\\Pages\\Main.xaml",
+              "ToolTip": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\Pages\\Main.xaml",
+              "RelativeToolTip": "pr8_WPF_Weather\\Pages\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T14:38:22.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DailyForecastResponse.cs",
               "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_API\\Models\\DailyForecastResponse.cs",
               "RelativeDocumentMoniker": "pr8_API\\Models\\DailyForecastResponse.cs",
@@ -169,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\MainWindow.xaml",
               "RelativeDocumentMoniker": "pr8_WPF_Weather\\MainWindow.xaml",
@@ -180,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_WPF_Weather\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "pr8_WPF_Weather\\AssemblyInfo.cs",
