@@ -23,20 +23,20 @@ namespace pr8_API
             _client = new Classes.WeatherClient(_baseURL, _apiKey, _language);
             _context = new Classes.AppDbContext();
         }
-        public async Task<IEnumerable<Location>> SearchLocationAsync(string query)
+        public async Task<IEnumerable<Models.Location>> SearchLocationAsync(string query)
         {
             var cachekey = $"search-location-{query.ToLower()}";
-            var cachedData = await GetCacheOrDefault<IEnumerable<Location>>(cachekey);
+            var cachedData = await GetCacheOrDefault<IEnumerable<Models.Location>>(cachekey);
             if (cachedData != null) return cachedData;
             var location = await _client.SearchLocationAsync(query);
-            await SaveCache(cacheKey, location);
+            await SaveCache(cachekey, location);
             return location;
         }
-        public async Task<IEnumerable<InHoursForecast>> Get12HoursForecastAsync(string locationKey)
+        public async Task<IEnumerable<Models.InHoursForecast>> Get12HoursForecastAsync(string locationKey)
         {
             var cacheKey = $"12-hours-forecast-{locationKey}";
 
-            var cachedData = await GetCacheOrDefault<IEnumerable<InHoursForecast>>(cacheKey);
+            var cachedData = await GetCacheOrDefault<IEnumerable<Models.InHoursForecast>>(cacheKey);
             if (cachedData != null)
             {
                 cachedData = cachedData.Where(f => f.DateTime >= DateTime.Now);
