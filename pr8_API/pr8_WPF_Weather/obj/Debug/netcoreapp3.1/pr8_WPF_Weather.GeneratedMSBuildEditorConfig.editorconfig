@@ -1,4 +1,5 @@
 is_global = true
+build_property.RefitInternalNamespace = pr8_WPF_Weather
 build_property.RootNamespace = pr8_WPF_Weather
 build_property.ProjectDir = C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_WPF_Weather\
 build_property.EnableComHosting = 

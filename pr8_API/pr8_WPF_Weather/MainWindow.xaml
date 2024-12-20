@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:pr8_WPF_Weather"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+    <Grid Background="#171d25">
+        <Frame x:Name="frame" NavigationUIVisibility="Hidden"/>
     </Grid>
 </Window>

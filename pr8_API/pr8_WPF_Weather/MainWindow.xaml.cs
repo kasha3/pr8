@@ -20,9 +20,11 @@ namespace pr8_WPF_Weather
     /// </summary>
     public partial class MainWindow : Window
     {
+
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }

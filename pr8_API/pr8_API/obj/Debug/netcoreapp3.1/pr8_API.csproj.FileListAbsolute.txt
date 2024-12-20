@@ -1,0 +1,11 @@
+C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_API\bin\Debug\netcoreapp3.1\pr8_API.deps.json
+C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_API\bin\Debug\netcoreapp3.1\pr8_API.dll
+C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_API\bin\Debug\netcoreapp3.1\pr8_API.pdb
+C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_API\obj\Debug\netcoreapp3.1\pr8_API.csproj.AssemblyReference.cache
+C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_API\obj\Debug\netcoreapp3.1\pr8_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_API\obj\Debug\netcoreapp3.1\pr8_API.AssemblyInfoInputs.cache
+C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_API\obj\Debug\netcoreapp3.1\pr8_API.AssemblyInfo.cs
+C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_API\obj\Debug\netcoreapp3.1\pr8_API.csproj.CoreCompileInputs.cache
+C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_API\obj\Debug\netcoreapp3.1\pr8_API.sourcelink.json
+C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_API\obj\Debug\netcoreapp3.1\pr8_API.dll
+C:\Users\Hat\Desktop\PR8_0202\pr8\pr8_API\pr8_API\obj\Debug\netcoreapp3.1\pr8_API.pdb
