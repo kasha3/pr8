@@ -3,7 +3,6 @@ using Newtonsoft.Json;
 using pr8_API.Classes;
 using Refit;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -12,16 +11,16 @@ namespace pr8_API
 {
     public class WeatherService
     {
-        private readonly Classes.WeatherClient _client;
-        private readonly Classes.AppDbContext _context;
+        private readonly WeatherClient _client;
+        private readonly AppDbContext _context;
         private const string _baseURL = "http://dataservice.accuweather.com";
         private const string _apiKey = "3QRmEXxOJvOecVi7pTn9BADKNwhcEbHl";
         private const string _language = "ru-RU";
 
         public WeatherService()
         {
-            _client = new Classes.WeatherClient(_baseURL, _apiKey, _language);
-            _context = new Classes.AppDbContext();
+            _client = new WeatherClient(_baseURL, _apiKey, _language);
+            _context = new AppDbContext();
         }
         public async Task<IEnumerable<Models.Location>> SearchLocationAsync(string query)
         {
@@ -56,11 +55,11 @@ namespace pr8_API
                 return cachedData;
             }
         }
-        public async Task<DailyForecast> Get5DaysForecastAsync(string locationKey)
+        public async Task<Models.DailyForecastsResponse> Get5DaysForecastAsync(string locationKey)
         {
             var cacheKey = $"5-days-forecast-{locationKey}";
 
-            var cachedData = await GetCacheOrDefault<DailyForecast>(cacheKey);
+            var cachedData = await GetCacheOrDefault<Models.DailyForecastsResponse>(cacheKey);
 
             if (cachedData != null)
             {

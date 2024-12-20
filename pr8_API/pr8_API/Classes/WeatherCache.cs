@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace pr8_API.Classes
+﻿namespace pr8_API.Classes
 {
     public class WeatherCache
     {

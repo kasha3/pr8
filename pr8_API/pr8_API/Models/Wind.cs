@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace pr8_API.Models
+﻿namespace pr8_API.Models
 {
     public class Wind
     {

@@ -19,31 +19,31 @@ namespace pr8_API.Classes
             _baseUrl = baseUrl;
             _apiKey = apiKey;
             _lang = lang;
-            _client = new HttpClient { BaseAddress = new Uri(baseUrl)};
+            _client = new HttpClient { BaseAddress = new Uri(_baseUrl)};
         }
 
-        public async Task<IEnumerable<Location>> SearchLocationAsync(string query)
+        public async Task<IEnumerable<Models.Location>> SearchLocationAsync(string query)
         {
             var response = await _client.GetAsync($"/locations/v1/cities/autocomplete?q={query}&language={_lang}&apikey={_apiKey}");
             response.EnsureSuccessStatusCode();
             var content = await response.Content.ReadAsStringAsync();
-            return JsonConvert.DeserializeObject<IEnumerable<Location>>(content);
+            return JsonConvert.DeserializeObject<IEnumerable<Models.Location>>(content);
         }
 
-        public async Task<IEnumerable<InHoursForecast>> Get12HoursForecastAsync(string locationKey)
+        public async Task<IEnumerable<Models.InHoursForecast>> Get12HoursForecastAsync(string locationKey)
         {
             var response = await _client.GetAsync($"/forecasts/v1/hourly/12hour/{locationKey}?language={_lang}&details=true&apikey={_apiKey}");
             response.EnsureSuccessStatusCode();
             var content = await response.Content.ReadAsStringAsync();
-            return JsonConvert.DeserializeObject<IEnumerable<InHoursForecast>>(content);
+            return JsonConvert.DeserializeObject<IEnumerable<Models.InHoursForecast>>(content);
         }
 
-        public async Task<IEnumerable<DailyForecast>> Get5DaysForecastsAsync(string locationKey)
+        public async Task<Models.DailyForecastsResponse> Get5DaysForecastsAsync(string locationKey)
         {
             var response = await _client.GetAsync($"/forecasts/v1/daily/5day/{locationKey}?language={_lang}&details=true&apikey={_apiKey}&metric=true");
             response.EnsureSuccessStatusCode();
             var content = await response.Content.ReadAsStringAsync();
-            return JsonConvert.DeserializeObject<IEnumerable<DailyForecast>>(content);
+            return JsonConvert.DeserializeObject<Models.DailyForecastsResponse>(content);
         }
     }
 }

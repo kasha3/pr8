@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|c:\\users\\admin\\source\\repos\\pr8\\pr8_api\\pr8_api\\models\\forecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|solutionrelative:pr8_api\\models\\forecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|c:\\users\\admin\\source\\repos\\pr8\\pr8_api\\pr8_api\\models\\inhoursforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|solutionrelative:pr8_api\\models\\inhoursforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|c:\\users\\admin\\source\\repos\\pr8\\pr8_api\\pr8_api\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|solutionrelative:pr8_api\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|c:\\users\\admin\\source\\repos\\pr8\\pr8_api\\pr8_api\\models\\wind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|solutionrelative:pr8_api\\models\\wind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|c:\\users\\admin\\source\\repos\\pr8\\pr8_api\\pr8_api\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|solutionrelative:pr8_api\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|c:\\users\\admin\\source\\repos\\pr8\\pr8_api\\pr8_api\\classes\\weatherclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|solutionrelative:pr8_api\\classes\\weatherclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|c:\\users\\admin\\source\\repos\\pr8\\pr8_api\\pr8_api\\classes\\weathercache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|solutionrelative:pr8_api\\classes\\weathercache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|c:\\users\\admin\\source\\repos\\pr8\\pr8_api\\pr8_api\\classes\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCD90C0-A4D2-4746-ABC4-A52C322800B3}|pr8_API\\pr8_API.csproj|solutionrelative:pr8_api\\classes\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\admin\\source\\repos\\pr8\\pr8_api\\pr8_wpf_weather\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|c:\\users\\admin\\source\\repos\\pr8\\pr8_api\\pr8_wpf_weather\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A83106E-FC63-4FFB-BB1E-07384F2929E7}|pr8_WPF_Weather\\pr8_WPF_Weather.csproj|solutionrelative:pr8_wpf_weather\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,127 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Forecast.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Models\\Forecast.cs",
-              "RelativeDocumentMoniker": "pr8_API\\Models\\Forecast.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Models\\Forecast.cs",
-              "RelativeToolTip": "pr8_API\\Models\\Forecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:42:21.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Wind.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Models\\Wind.cs",
-              "RelativeDocumentMoniker": "pr8_API\\Models\\Wind.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Models\\Wind.cs",
-              "RelativeToolTip": "pr8_API\\Models\\Wind.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:35:15.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InHoursForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Models\\InHoursForecast.cs",
-              "RelativeDocumentMoniker": "pr8_API\\Models\\InHoursForecast.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Models\\InHoursForecast.cs",
-              "RelativeToolTip": "pr8_API\\Models\\InHoursForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:31:55.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Models\\Location.cs",
-              "RelativeDocumentMoniker": "pr8_API\\Models\\Location.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Models\\Location.cs",
-              "RelativeToolTip": "pr8_API\\Models\\Location.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:25:46.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WeatherCache.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Classes\\WeatherCache.cs",
-              "RelativeDocumentMoniker": "pr8_API\\Classes\\WeatherCache.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Classes\\WeatherCache.cs",
-              "RelativeToolTip": "pr8_API\\Classes\\WeatherCache.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:51:04.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Classes\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "pr8_API\\Classes\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Classes\\AppDbContext.cs",
-              "RelativeToolTip": "pr8_API\\Classes\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:51:02.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WeatherClient.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Classes\\WeatherClient.cs",
-              "RelativeDocumentMoniker": "pr8_API\\Classes\\WeatherClient.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\Classes\\WeatherClient.cs",
-              "RelativeToolTip": "pr8_API\\Classes\\WeatherClient.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAIwCgAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:40:27.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_WPF_Weather\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "pr8_WPF_Weather\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_WPF_Weather\\MainWindow.xaml",
-              "RelativeToolTip": "pr8_WPF_Weather\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-20T12:14:31.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_WPF_Weather\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "pr8_WPF_Weather\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_WPF_Weather\\MainWindow.xaml.cs",
-              "RelativeToolTip": "pr8_WPF_Weather\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:14:31.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\WeatherService.cs",
-              "RelativeDocumentMoniker": "pr8_API\\WeatherService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\WeatherService.cs",
-              "RelativeToolTip": "pr8_API\\WeatherService.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T12:12:34.895Z"
             }
           ]
         }
