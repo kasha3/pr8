@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pr8_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d7b14eed38c4041bfc8d1343358c67e162c9aa1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a27631e1465d3d0246b0af36cc7d273a0199080")]
 [assembly: System.Reflection.AssemblyProductAttribute("pr8_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pr8_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

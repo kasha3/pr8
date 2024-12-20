@@ -7,7 +7,7 @@ namespace pr8_API.Classes
 {
     internal class AppDbContext : DbContext
     {
-        public DbSet<WeatherCache> WeatherCaches { get; set; }
+        public DbSet<WeatherCache> WeatherCache { get; set; }
         public AppDbContext()
         {
             Database.EnsureCreated();
