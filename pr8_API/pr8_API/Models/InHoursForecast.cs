@@ -16,4 +16,9 @@ namespace pr8_API.Models
         public int UVIndex { get; set; }
         public string UVIndexText { get; set; }
     }
+    public class TemperatureInfo
+    {
+        public double Value { get; set; }
+        public string Unit { get; set; }
+    }
 }
