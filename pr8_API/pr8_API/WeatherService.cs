@@ -78,7 +78,7 @@ namespace pr8_API
             }
             catch (ApiException)
             {
-                return cachedData;
+                return cachedData;  
             }
         }
         private async Task<T> GetCacheOrDefault<T>(string cacheKey)

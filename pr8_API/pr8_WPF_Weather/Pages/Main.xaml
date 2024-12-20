@@ -27,7 +27,7 @@
                                 </Grid.ColumnDefinitions>
                                 <StackPanel Orientation="Vertical" Margin="10" Grid.Column="0">
                                     <StackPanel Orientation="Vertical">
-                                        <Label Name="lb_temp_now" Content="-52°" FontSize="48" FontWeight="Bold" Foreground="White" Width="110"/>
+                                        <Label Name="lb_temp_now" Content="-52°" FontSize="48" FontWeight="Bold" Foreground="White" Width="200"/>
                                         <Image x:Name="img_now" Height="70" Width="70"/>
                                     </StackPanel>
                                 </StackPanel>

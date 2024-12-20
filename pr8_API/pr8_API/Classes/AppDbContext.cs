@@ -12,7 +12,7 @@ namespace pr8_API.Classes
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySql("server=127.0.0.1;port=3307;database=pr8;uid=root;pwd;", new MySqlServerVersion(new System.Version(8, 0, 11)));
+            optionsBuilder.UseMySql("server=127.0.0.1;port=3307;database=pr8;uid=root;pwd=;", new MySqlServerVersion(new System.Version(8, 0, 11)));
         }
     }
 }
