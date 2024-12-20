@@ -1218,23 +1218,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\SDK\\NuGetPackages": {}
+    "C:\\Users\\Hat\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\pr8_API.csproj",
+      "projectUniqueName": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_API\\pr8_API.csproj",
       "projectName": "pr8_API",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\pr8_API.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\pr8\\pr8_API\\pr8_API\\obj\\",
+      "projectPath": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_API\\pr8_API.csproj",
+      "packagesPath": "C:\\Users\\Hat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hat\\Desktop\\PR8_0202\\pr8\\pr8_API\\pr8_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\SDK\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1243,7 +1243,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Admin\\.nuget\\packages": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1260,8 +1260,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "netcoreapp3.1": {
@@ -1303,7 +1304,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
