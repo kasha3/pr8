@@ -85,7 +85,7 @@ namespace pr8_WPF_Weather.Element {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/pr8_WPF_Weather;component/element/itm_hourlyweather.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/pr8_WPF_Weather;V1.0.0.0;component/element/itm_hourlyweather.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Element\itm_HourlyWeather.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

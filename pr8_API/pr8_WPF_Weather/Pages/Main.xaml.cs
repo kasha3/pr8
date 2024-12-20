@@ -32,8 +32,8 @@ namespace pr8_WPF_Weather.Pages
 
         public async void LoadDailyForecasts(string sity)
         {
-            try
-            {
+            //try
+            //{
                 var searchResult = await _weatherService.SearchLocationAsync(sity);
 
                 var location = searchResult.First();
@@ -65,11 +65,11 @@ namespace pr8_WPF_Weather.Pages
                 {
                     parent.Children.Add(new Element.itm_Weather(forecast));
                 }
-            }
-            catch
-            {
-                MessageBox.Show("Город не найден или введен некорректно. Пожалуйста, проверьте ввод.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Warning);
-            }
+            //}
+            //catch
+            //{
+            //    MessageBox.Show("Город не найден или введен некорректно. Пожалуйста, проверьте ввод.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Warning);
+            //}
         }
 
         private void KeyDown_Search(object sender, KeyEventArgs e)
